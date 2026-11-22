@@ -69,7 +69,8 @@ OpenSense-Lab/
 │
 ├── experiments/
 │   ├── experiment_001/
-│   └── experiment_002/
+│   ├── experiment_002/
+│   └── 007-weather-matrix/
 │
 ├── notebooks/
 │
@@ -97,6 +98,7 @@ OpenSense-Lab/
 | 004 | Environmental data acquisition | Planned |
 | 005 | Data analysis and visualization | Planned |
 | 006 | Machine Learning experiments | Planned |
+| 007 | Exibição do clima na matriz 8×13 do Arduino UNO Q | Protótipo inicial |
 
 ## 🔬 Research Directions
 
